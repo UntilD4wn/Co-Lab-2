@@ -18,4 +18,11 @@ public class SceneSelecter : MonoBehaviour
         SceneManager.LoadSceneAsync(2);
         Debug.Log("Change Scene Operational");
     }
+
+    public void LevelSelector()
+    {
+        SceneManager.LoadSceneAsync(0);
+        Debug.Log("Change Scene Operational");
+    }
 }
+
