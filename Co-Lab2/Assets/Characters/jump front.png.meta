@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9958187fc36d12640bcc745976b641ad
+guid: 9fc1ea8ae3bacb643b0236e046a2e26a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,127 +97,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Front _View 2_0
+      name: jump front_0
       rect:
         serializedVersion: 2
-        x: 60
-        y: 1307
-        width: 745
-        height: 1152
+        x: 6
+        y: 150
+        width: 818
+        height: 1257
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07c37f954fbec2c43b21a67389b78e50
-      internalID: 1508260355
+      spriteID: 8e8edae4bbd403549a43b817ef46437e
+      internalID: 1407591704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Front _View 2_1
+      name: jump front_1
       rect:
         serializedVersion: 2
-        x: 882
-        y: 1257
-        width: 798
-        height: 1183
+        x: 983
+        y: 114
+        width: 644
+        height: 1139
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e62e38c04a778f4f8245335415e8b6c
-      internalID: 512314724
+      spriteID: b0dfe74750b61434dadd2843b85e4ee9
+      internalID: -1174933400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Front _View 2_2
+      name: jump front_2
       rect:
         serializedVersion: 2
-        x: 1732
-        y: 1275
-        width: 657
-        height: 1136
+        x: 1865
+        y: 105
+        width: 643
+        height: 1139
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b527197c68c8ace4d8834be038d42cd2
-      internalID: 1587943339
+      spriteID: 8a0a03c9b2c8a5c449ad8040f96a1c30
+      internalID: 760733736
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Front _View 2_3
+      name: jump front_3
       rect:
         serializedVersion: 2
-        x: 129
-        y: 36
-        width: 744
-        height: 1154
+        x: 2613
+        y: 117
+        width: 792
+        height: 1303
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e3df804aea17e34dbf35790bf84576c
-      internalID: 1262814564
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Front _View 2_4
-      rect:
-        serializedVersion: 2
-        x: 906
-        y: 16
-        width: 798
-        height: 1217
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9d034c91d9203344799ce4a20733b9a8
-      internalID: -927334893
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Front _View 2_5
-      rect:
-        serializedVersion: 2
-        x: 1830
-        y: 40
-        width: 671
-        height: 1135
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d668e08b3cf5284fba44fbe7ad5b07a
-      internalID: 23486455
+      spriteID: 7ea6c9c2430198e44b92cd73e33f7934
+      internalID: -909337035
       vertices: []
       indices: 
       edges: []
@@ -233,12 +191,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Front _View 2_0: 1508260355
-      Front _View 2_1: 512314724
-      Front _View 2_2: 1587943339
-      Front _View 2_3: 1262814564
-      Front _View 2_4: -927334893
-      Front _View 2_5: 23486455
+      jump front_0: 1407591704
+      jump front_1: -1174933400
+      jump front_2: 760733736
+      jump front_3: -909337035
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
