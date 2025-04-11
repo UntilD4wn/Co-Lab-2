@@ -15,7 +15,7 @@ public class SceneSelecter : MonoBehaviour
     public void Level2()
     {
         //Play Game after clicking button
-        SceneManager.LoadSceneAsync(2);
+        SceneManager.LoadSceneAsync(3);
         Debug.Log("Change Scene Operational");
     }
 
