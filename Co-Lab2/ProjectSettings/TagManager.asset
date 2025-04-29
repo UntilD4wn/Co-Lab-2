@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Target
+  - CorrectItem
+  - BlockedItem
   layers:
   - Default
   - TransparentFX
@@ -12,9 +14,9 @@ TagManager:
   - Ground
   - Water
   - UI
-  - 
-  - 
-  - 
+  - AllowedObjects
+  - AreaBarrier
+  - BlockedObjects
   - 
   - 
   - 
@@ -42,11 +44,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Objects
+  - name: Object 1
     uniqueID: 3215739427
     locked: 0
-  - name: TopObject
+  - name: Object 2
+    uniqueID: 852098757
+    locked: 0
+  - name: Object 3
     uniqueID: 2234525325
+    locked: 0
+  - name: Object 4
+    uniqueID: 968147911
+    locked: 0
+  - name: Object 5
+    uniqueID: 3233355683
     locked: 0
   - name: UI
     uniqueID: 662586879
